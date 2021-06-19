@@ -1,0 +1,9 @@
+
+ button {
+    margin-top: 40px;
+    margin-left: 80px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(164, 207, 219);
+    color: rgb(22, 24, 24);
+    cursor: pointer;
+};
